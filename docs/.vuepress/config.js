@@ -48,7 +48,7 @@ module.exports = {
                             { text: '二维码生成器', link: 'https://cli.im/' },
                             { text: '在线编码转换', link: 'http://tool.chinaz.com/tools/native_ascii.aspx' },
                             { text: 'YAML <==> Properties', link: 'https://www.toyaml.com/index.html' },
-                            { text: '在线 Web 练习', link: 'https://jsfiddle.net/' }
+                            { text: '在线作图', link: 'https://www.draw.io/' }
                         ]
                     },
 
@@ -107,8 +107,13 @@ module.exports = {
                     title: 'Java后台开发',
                     collapsable: false,
                     children: [
-                        '/zh/guide/css',
-                        '/zh/guide/aa',
+                        '/zh/guide/java/transaction/transaction-a',
+                        '/zh/guide/java/transaction/transaction-b',
+                        '/zh/guide/java/mjkf',
+                        '/zh/guide/java/mjkf-xp',
+                        '/zh/guide/java/restful-api',
+                        '/zh/guide/java/Quartz',
+                        '/zh/guide/java/Swagger2',
                     ]
                 },
                 {
@@ -118,6 +123,10 @@ module.exports = {
                         '/zh/guide/kubernetes/kubernetes-a.md',
                         '/zh/guide/kubernetes/kubernetes-b.md',
                         '/zh/guide/kubernetes/kubernetes-c.md',
+                        '/zh/guide/kubernetes/kubernetes-d.md',
+                        '/zh/guide/kubernetes/kubernetes-e.md',
+                        '/zh/guide/kubernetes/kubernetes-f.md',
+                        '/zh/guide/kubernetes/kubernetes-g.md',
                         '/zh/guide/nginx/nginx-1.md',
                         '/zh/guide/nginx/nginx-2.md',
                         '/zh/guide/nginx/nginx-3.md',
@@ -131,16 +140,16 @@ module.exports = {
                     title: '微服务',
                     collapsable: false,
                     children: [
-                        '/zh/guide/css',
-                        '/zh/guide/aa',
+                        '/zh/guide/MQ/RabbitMQ 简介',
+                        '/zh/guide/MQ/RabbitMQ 安装',
+                        '/zh/guide/MQ/RabbitMQ 使用',
                     ]
                 },
                 {
                     title: '大数据',
                     collapsable: false,
                     children: [
-                        '/zh/guide/css',
-                        '/zh/guide/aa',
+                        '/zh/guide/bigdata/bigdata-1',
                     ]
                 },
                 {
