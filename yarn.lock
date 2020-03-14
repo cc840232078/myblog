@@ -962,9 +962,9 @@ acorn-dynamic-import@^3.0.0:
     acorn "^5.0.0"
 
 acorn@^5.0.0:
-  version "5.5.3"
-  resolved "https://registry.yarnpkg.com/acorn/-/acorn-5.5.3.tgz#f473dd47e0277a08e28e9bec5aeeb04751f0b8c9"
-  integrity sha512-jd5MkIUlbbmb07nXH0DT3y7rDVtkzDi4XZOUVWAer8ajmF/DTSSbl5oNFyDOl/OXA33Bl79+ypHhl2pN20VeOQ==
+  version "5.7.4"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-5.7.4.tgz#3e8d8a9947d0599a1796d10225d7432f4a4acf5e"
+  integrity sha512-1D++VG7BhrtvQpNbBzovKNc1FLGGEE/oGe7b9xJm/RFHMBeUaUGpluV9RLjZa47YFdPcDAenEYuq9pQPcMdLJg==
 
 agentkeepalive@^2.2.0:
   version "2.2.0"
@@ -6726,10 +6726,10 @@ vuepress-theme-vue@^1.1.0:
   resolved "https://registry.yarnpkg.com/vuepress-theme-vue/-/vuepress-theme-vue-1.1.0.tgz#8b109e3db8cad7b18459f4d77076808110c2bcaa"
   integrity sha512-oYbfWkeaQ6aUU8sl8fMzLnBnvsd23V0wkiqI0bR3Tq3mlI8EJu26PFOyyF7KvJu0qNo/lcL7CDSmX7ymUVpnvw==
 
-vuepress@^0.14.8:
-  version "0.14.8"
-  resolved "https://registry.yarnpkg.com/vuepress/-/vuepress-0.14.8.tgz#1e0a70a64c19e82e365eb7313b1ec88cc4ad7ab3"
-  integrity sha512-2BVubO3a4Nl8i/tWaO66iq2NRxxf9bh3QwDdoUuBTrhGtLgjv8mv4xrsgMpiPLXo1uk7bQY4hjZNvbYjCLCQkg==
+vuepress@^0.14.11:
+  version "0.14.11"
+  resolved "https://registry.yarnpkg.com/vuepress/-/vuepress-0.14.11.tgz#fc6ba0e609e3433a8070e95301b4d987712b2a08"
+  integrity sha512-5iB7iWeEG7GtEiNwmS2LOcifp2V93aZ4+oO9pq8OcUgOWay9/NqmNqzg7KQ7AJ0puZGg0tYwUKKjifIWIPE8jQ==
   dependencies:
     "@babel/core" "7.0.0-beta.47"
     "@vue/babel-preset-app" "3.0.0-beta.11"
