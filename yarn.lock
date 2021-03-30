@@ -6726,10 +6726,10 @@ vuepress-theme-vue@^1.1.0:
   resolved "https://registry.yarnpkg.com/vuepress-theme-vue/-/vuepress-theme-vue-1.1.0.tgz#8b109e3db8cad7b18459f4d77076808110c2bcaa"
   integrity sha512-oYbfWkeaQ6aUU8sl8fMzLnBnvsd23V0wkiqI0bR3Tq3mlI8EJu26PFOyyF7KvJu0qNo/lcL7CDSmX7ymUVpnvw==
 
-vuepress@^0.14.8:
-  version "0.14.8"
-  resolved "https://registry.yarnpkg.com/vuepress/-/vuepress-0.14.8.tgz#1e0a70a64c19e82e365eb7313b1ec88cc4ad7ab3"
-  integrity sha512-2BVubO3a4Nl8i/tWaO66iq2NRxxf9bh3QwDdoUuBTrhGtLgjv8mv4xrsgMpiPLXo1uk7bQY4hjZNvbYjCLCQkg==
+vuepress@^0.14.11:
+  version "0.14.11"
+  resolved "https://registry.yarnpkg.com/vuepress/-/vuepress-0.14.11.tgz#fc6ba0e609e3433a8070e95301b4d987712b2a08"
+  integrity sha512-5iB7iWeEG7GtEiNwmS2LOcifp2V93aZ4+oO9pq8OcUgOWay9/NqmNqzg7KQ7AJ0puZGg0tYwUKKjifIWIPE8jQ==
   dependencies:
     "@babel/core" "7.0.0-beta.47"
     "@vue/babel-preset-app" "3.0.0-beta.11"
@@ -7128,9 +7128,9 @@ xtend@^4.0.0, xtend@~4.0.1:
   integrity sha1-pcbVMr5lbiPbgg77lDofBJmNY68=
 
 y18n@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/y18n/-/y18n-4.0.0.tgz#95ef94f85ecc81d007c264e190a120f0a3c8566b"
-  integrity sha512-r9S/ZyXu/Xu9q1tYlpsLIsa3EeLXXk0VwlxqTcFRfg9EhMW+17kbt9G0NrgCmhGb5vT2hyhJZLfDGx+7+5Uj/w==
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/y18n/-/y18n-4.0.1.tgz#8db2b83c31c5d75099bb890b23f3094891e247d4"
+  integrity sha512-wNcy4NvjMYL8gogWWYAO7ZFWFfHcbdbE57tZO8e4cbpj8tfUcwrwqSl3ad8HxpYWCdXcJUCeKKZS62Av1affwQ==
 
 yallist@^2.1.2:
   version "2.1.2"
